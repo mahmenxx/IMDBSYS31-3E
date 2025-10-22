@@ -17,5 +17,8 @@ namespace LectureDatabase31
         public int Id { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
+        public Nullable<int> role_id { get; set; }
+    
+        public virtual Roles Roles { get; set; }
     }
 }

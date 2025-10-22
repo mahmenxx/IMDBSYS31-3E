@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\jilab\source\repos\LectureDatabase31\LectureDatabase31\Model1.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\Model1.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

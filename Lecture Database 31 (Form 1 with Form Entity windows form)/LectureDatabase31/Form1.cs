@@ -63,6 +63,6 @@ namespace LectureDatabase31
             Form2EntitiyFramework form2 = new Form2EntitiyFramework();
             form2.ShowDialog();
 
-        }
+        }   
     }
 }

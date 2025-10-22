@@ -1,0 +1,14 @@
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\bin\Debug\DemoLecture.exe.config
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\bin\Debug\DemoLecture.exe
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\bin\Debug\DemoLecture.pdb
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\bin\Debug\EntityFramework.dll
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\bin\Debug\EntityFramework.xml
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\obj\Debug\DemoLecture.csproj.AssemblyReference.cache
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\obj\Debug\DemoLecture.Form1.resources
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\obj\Debug\DemoLecture.Properties.Resources.resources
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\obj\Debug\DemoLecture.csproj.GenerateResource.cache
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\obj\Debug\DemoLecture.csproj.CoreCompileInputs.cache
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\obj\Debug\DemoLect.7B84D252.Up2Date
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\obj\Debug\DemoLecture.exe
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\obj\Debug\DemoLecture.pdb
+C:\Users\jilab\OneDrive\Documents\GitHub\Lab1\DemoLecture\DemoLecture\obj\Debug\DemoLecture.exe.config

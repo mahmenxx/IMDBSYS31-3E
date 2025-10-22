@@ -13,10 +13,10 @@ namespace LectureDatabase31
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class SampleDBEntities1 : DbContext
+    public partial class SampleDBEntities2 : DbContext
     {
-        public SampleDBEntities1()
-            : base("name=SampleDBEntities1")
+        public SampleDBEntities2()
+            : base("name=SampleDBEntities2")
         {
         }
     
@@ -25,6 +25,8 @@ namespace LectureDatabase31
             throw new UnintentionalCodeFirstException();
         }
     
+        public DbSet<Roles> Roles { get; set; }
+        public DbSet<sysdiagrams> sysdiagrams { get; set; }
         public DbSet<Users> Users { get; set; }
     }
 }

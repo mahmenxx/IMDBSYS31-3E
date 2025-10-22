@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\",
+  "WorkspaceRootPath": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|c:\\users\\jilab\\onedrive\\documents\\github\\imdbsys31-3e\\lecturedatabase31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|solutionrelative:lecturedatabase31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\lecturedatabase31\\form2entitiyframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\lecturedatabase31\\form2entitiyframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|solutionrelative:lecturedatabase31\\form2entitiyframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\lecturedatabase31\\form2entitiyframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\lecturedatabase31\\form2entitiyframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|solutionrelative:lecturedatabase31\\form2entitiyframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\lecturedatabase31\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|solutionrelative:lecturedatabase31\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\lecturedatabase31\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\lecturedatabase31\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|solutionrelative:lecturedatabase31\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\lecturedatabase31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|c:\\users\\jilab\\onedrive\\documents\\github\\imdbsys31-3e\\lecture database 31 (form 1 with form entity windows form)\\lecturedatabase31\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|solutionrelative:lecturedatabase31\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|c:\\users\\jilab\\onedrive\\documents\\github\\imdbsys31-3e\\lecture database 31 (form 1 with form entity windows form)\\lecturedatabase31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|solutionrelative:lecturedatabase31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\lecturedatabase31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|solutionrelative:lecturedatabase31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|c:\\users\\jilab\\onedrive\\documents\\github\\imdbsys31-3e\\lecture database 31 (form 1 with form entity windows form)\\lecturedatabase31\\sampledbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{399017E5-06D6-44FD-ACA1-01475CADEB30}|LectureDatabase31\\LectureDatabase31.csproj|solutionrelative:lecturedatabase31\\sampledbdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,78 +49,95 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SampleDBDataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\SampleDBDataSet1.xsd",
+              "RelativeDocumentMoniker": "LectureDatabase31\\SampleDBDataSet1.xsd",
+              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\SampleDBDataSet1.xsd",
+              "RelativeToolTip": "LectureDatabase31\\SampleDBDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-10-22T05:15:58.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2EntitiyFramework.cs",
+              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Form2EntitiyFramework.cs",
+              "RelativeDocumentMoniker": "LectureDatabase31\\Form2EntitiyFramework.cs",
+              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Form2EntitiyFramework.cs",
+              "RelativeToolTip": "LectureDatabase31\\Form2EntitiyFramework.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:07:39.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2EntitiyFramework.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Form2EntitiyFramework.cs",
+              "RelativeDocumentMoniker": "LectureDatabase31\\Form2EntitiyFramework.cs",
+              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Form2EntitiyFramework.cs [Design]",
+              "RelativeToolTip": "LectureDatabase31\\Form2EntitiyFramework.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:04:03.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\LectureDatabase31\\App.config",
-              "RelativeDocumentMoniker": "LectureDatabase31\\App.config",
-              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\LectureDatabase31\\App.config",
-              "RelativeToolTip": "LectureDatabase31\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-08-27T07:12:06.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2EntitiyFramework.cs",
-              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\LectureDatabase31\\Form2EntitiyFramework.cs",
-              "RelativeDocumentMoniker": "LectureDatabase31\\Form2EntitiyFramework.cs",
-              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\LectureDatabase31\\Form2EntitiyFramework.cs",
-              "RelativeToolTip": "LectureDatabase31\\Form2EntitiyFramework.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T07:07:39.846Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form2EntitiyFramework.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\LectureDatabase31\\Form2EntitiyFramework.cs",
-              "RelativeDocumentMoniker": "LectureDatabase31\\Form2EntitiyFramework.cs",
-              "ToolTip": "C:\\Users\\jilab\\source\\repos\\LectureDatabase31\\LectureDatabase31\\Form2EntitiyFramework.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\LectureDatabase31\\LectureDatabase31\\Form2EntitiyFramework.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T07:04:03.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\LectureDatabase31\\Form1.cs",
-              "RelativeDocumentMoniker": "LectureDatabase31\\Form1.cs",
-              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\LectureDatabase31\\Form1.cs",
-              "RelativeToolTip": "LectureDatabase31\\Form1.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAwCoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T06:54:34.999Z",
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\App.config",
+              "RelativeDocumentMoniker": "LectureDatabase31\\App.config",
+              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\App.config",
+              "RelativeToolTip": "LectureDatabase31\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-27T07:12:06.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\LectureDatabase31\\Model1.edmx",
+              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Model1.edmx",
               "RelativeDocumentMoniker": "LectureDatabase31\\Model1.edmx",
-              "ToolTip": "C:\\Users\\jilab\\source\\repos\\LectureDatabase31\\LectureDatabase31\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\LectureDatabase31\\LectureDatabase31\\Model1.edmx [Diagram1]",
+              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "LectureDatabase31\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-08-27T07:12:56.977Z"
+              "WhenOpened": "2025-10-22T04:50:20.727Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Form1.cs",
+              "RelativeDocumentMoniker": "LectureDatabase31\\Form1.cs",
+              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Form1.cs",
+              "RelativeToolTip": "LectureDatabase31\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvyoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:54:34.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\LectureDatabase31\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Form1.cs",
               "RelativeDocumentMoniker": "LectureDatabase31\\Form1.cs",
-              "ToolTip": "C:\\Users\\jilab\\source\\repos\\LectureDatabase31\\LectureDatabase31\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\LectureDatabase31\\LectureDatabase31\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\jilab\\OneDrive\\Documents\\GitHub\\IMDBSYS31-3E\\Lecture Database 31 (Form 1 with Form Entity windows form)\\LectureDatabase31\\Form1.cs [Design]",
+              "RelativeToolTip": "LectureDatabase31\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T06:42:48.161Z"
+              "WhenOpened": "2025-08-27T06:42:48.161Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

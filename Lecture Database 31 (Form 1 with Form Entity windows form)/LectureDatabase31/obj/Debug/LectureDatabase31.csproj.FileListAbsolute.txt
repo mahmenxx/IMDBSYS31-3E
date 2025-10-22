@@ -13,3 +13,18 @@ C:\Users\jilab\source\repos\LectureDatabase31\LectureDatabase31\bin\Debug\Entity
 C:\Users\jilab\source\repos\LectureDatabase31\LectureDatabase31\bin\Debug\EntityFramework.xml
 C:\Users\jilab\source\repos\LectureDatabase31\LectureDatabase31\obj\Debug\LectureDatabase31.Form2EntitiyFramework.resources
 C:\Users\jilab\source\repos\LectureDatabase31\LectureDatabase31\obj\Debug\LectureD.77AD6863.Up2Date
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\bin\Debug\LectureDatabase31.exe.config
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\bin\Debug\LectureDatabase31.exe
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\bin\Debug\LectureDatabase31.pdb
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\bin\Debug\EntityFramework.dll
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\bin\Debug\EntityFramework.xml
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureDatabase31.csproj.AssemblyReference.cache
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureDatabase31.exe.config
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureDatabase31.Form1.resources
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureDatabase31.Form2EntitiyFramework.resources
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureDatabase31.Properties.Resources.resources
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureDatabase31.csproj.GenerateResource.cache
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureDatabase31.csproj.CoreCompileInputs.cache
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureD.77AD6863.Up2Date
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureDatabase31.exe
+C:\Users\jilab\OneDrive\Documents\GitHub\IMDBSYS31-3E\Lecture Database 31 (Form 1 with Form Entity windows form)\LectureDatabase31\obj\Debug\LectureDatabase31.pdb
